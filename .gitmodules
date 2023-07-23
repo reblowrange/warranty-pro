@@ -1,0 +1,6 @@
+[submodule "warranty-gateway"]
+	path = warranty-gateway
+	url = https://github.com/reblowrange/warranty-gateway.git
+[submodule "warranty-ms"]
+	path = warranty-ms
+	url = https://github.com/reblowrange/warranty-ms.git
